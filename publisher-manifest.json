@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9666c4732a2c1fd30842f06c",
+  "owner": "bxfexj6h",
+  "repo": "page-14c416cf82aec3e6c05c5a47",
+  "title": "ByWave",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "14c416cf82aec3e6c05c5a47",
+      "a": "ByWave",
+      "b": "2027官方最新地址导航",
+      "entity": "ByWave",
+      "brand": "ByWave",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "78b012a0ef039a0d239d449852e972545cae96718fb7ffc68af018136ea8b343",
+      "content": {
+        "primary_entity": "ByWave",
+        "keyword1": "ByWave",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，先确认系统版本再安装配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备匹配",
+          "AI_CLOSING_TEXT": "选好套餐后打开客户端导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，面向需要稳定跨境网络连接的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览；旗舰版每月 300GB 流量、支持 5 台设备，包含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，适合多人协同。三个套餐均可按年付，价格分别为 ¥150/年、¥350/年 和 ¥850/年，可按设备数量与流量需求直接对比选择。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小与付费周期三个角度快速对号入座。",
+          "AI_FEATURES_TITLE": "选套餐看这三点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量选择。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 分档，重度使用优先考虑旗舰版或团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，旗舰版年付 ¥350/年，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "设备数量对号",
+          "AI_FEATURE_TITLE_2": "流量分档选择",
+          "AI_FEATURE_TITLE_3": "周期灵活计费",
+          "AI_GUIDE_INTRO": "三步完成选择与配置，全程围绕设备与订阅展开。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "ByWave 提供基础版、旗舰版、团队版三档海外加速订阅，覆盖从个人轻量浏览到多人团队协同的不同场景。每档套餐在流量、设备数量和线路类型上各有侧重，可按实际使用强度直接对比选择。",
+          "AI_HERO_SUBTITLE": "多档订阅匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数量",
+          "AI_HIGHLIGHT_2": "月付与年付两种计费周期",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版兼顾流量与专线，团队版面向多设备协同。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适用系统与客户端要求，确认设备满足安装条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成节点与线路配置后即可连接。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "按文档配订阅",
+          "AI_VISUAL_TITLE": "ByWave 订阅套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ByWave 有哪些套餐档位？",
+          "AI_FAQ_ANSWER_1": "共三档：基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FAQ_QUESTION_2": "套餐可以按月还是按年付费？",
+          "AI_FAQ_ANSWER_2": "三档套餐均支持月付与年付。按年付费折算后月均价格更低，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_3": "不同设备如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "请先根据设备系统选择对应客户端，再参考该客户端的订阅配置文档，将节点信息导入后即可使用。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版有什么主要区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量从 100GB 提升至 300GB，设备数从 3 台增至 5 台，并包含 IPLC 专线与优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 节点与企业定制路由，适合多人协作或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "g65ndgb.cn",
+    "host": "g65ndgb.cn"
+  },
+  "file_hashes": {
+    "index.html": "3bf6a5562249cea34dda699d36532ca446a9ddcba63ebf2818486224eb55620e",
+    "sitemap.xml": "c674668897fc1302d1a022a0b91be617d3456ed9ee02e1afa27aa6847db9e97e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ce902a2d98237c156524cadfc113fd790ad8bcc2cac5a436227fbeb5826c263",
+    "robots.txt": "fbf3e84b13dd2cc205ed7f702511ab2aefcd857449a5e6c68a2e34fffd32ee0f",
+    "ed64a721ba97540b33b24754fadfefda.txt": "5aa7c2c6cdd6cb8e2117b32af395a97919787c89ad8bfe8ff31be02df82aeeb1"
+  },
+  "revision": "312c460075da4d424156ded51996af11ad8699f9e36b5a921c965e066409ae51"
+}
